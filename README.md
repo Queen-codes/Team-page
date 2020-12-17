@@ -1,4 +1,4 @@
-<h1 align="center">{Team Page}</h1>
+<h1 align="center">Team Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://elegant-borg-3e40ca.netlify.app/">
       Demo
     </a>
     <span> | </span>
